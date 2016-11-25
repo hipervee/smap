@@ -1,0 +1,5 @@
+c:\Users\cttraining\documents\visual studio 2015\Projects\smap\smap.lib\bin\Debug\smap.lib.dll
+c:\Users\cttraining\documents\visual studio 2015\Projects\smap\smap.lib\bin\Debug\smap.lib.pdb
+c:\Users\cttraining\documents\visual studio 2015\Projects\smap\smap.lib\obj\Debug\smap.lib.csprojResolveAssemblyReference.cache
+c:\Users\cttraining\documents\visual studio 2015\Projects\smap\smap.lib\obj\Debug\smap.lib.dll
+c:\Users\cttraining\documents\visual studio 2015\Projects\smap\smap.lib\obj\Debug\smap.lib.pdb

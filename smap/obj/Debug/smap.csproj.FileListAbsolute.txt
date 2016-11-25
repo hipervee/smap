@@ -1,0 +1,11 @@
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\smap.exe.config
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\smap.exe
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\smap.pdb
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\smap.lib.dll
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\StructureMap.dll
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\smap.lib.pdb
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\obj\Debug\smap.csprojResolveAssemblyReference.cache
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\obj\Debug\smap.exe
+c:\users\cttraining\documents\visual studio 2015\Projects\smap\smap\obj\Debug\smap.pdb
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\SuperLogger.dll
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\smap\bin\Debug\SuperLogger.pdb

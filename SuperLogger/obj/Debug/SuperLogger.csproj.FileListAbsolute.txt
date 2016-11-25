@@ -1,0 +1,7 @@
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\SuperLogger\bin\Debug\SuperLogger.dll
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\SuperLogger\bin\Debug\SuperLogger.pdb
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\SuperLogger\bin\Debug\smap.lib.dll
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\SuperLogger\bin\Debug\smap.lib.pdb
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\SuperLogger\obj\Debug\SuperLogger.csprojResolveAssemblyReference.cache
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\SuperLogger\obj\Debug\SuperLogger.dll
+C:\Users\cttraining\documents\visual studio 2015\Projects\smap\SuperLogger\obj\Debug\SuperLogger.pdb
