@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smap.lib", "smap.lib\smap.l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperLogger", "SuperLogger\SuperLogger.csproj", "{53C3D2BE-1EB1-4832-9E9A-5CEA5C03F79D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMMVCApp1", "SMMVCApp1\SMMVCApp1.csproj", "{9E7FC915-C004-45C7-AC69-48D3B73CFCF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMMVCApp2", "SMMVCApp2\SMMVCApp2.csproj", "{59FC58DE-A039-45D7-8DAD-DE7968BF057A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{53C3D2BE-1EB1-4832-9E9A-5CEA5C03F79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C3D2BE-1EB1-4832-9E9A-5CEA5C03F79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C3D2BE-1EB1-4832-9E9A-5CEA5C03F79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7FC915-C004-45C7-AC69-48D3B73CFCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7FC915-C004-45C7-AC69-48D3B73CFCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7FC915-C004-45C7-AC69-48D3B73CFCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7FC915-C004-45C7-AC69-48D3B73CFCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FC58DE-A039-45D7-8DAD-DE7968BF057A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FC58DE-A039-45D7-8DAD-DE7968BF057A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FC58DE-A039-45D7-8DAD-DE7968BF057A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FC58DE-A039-45D7-8DAD-DE7968BF057A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

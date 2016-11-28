@@ -39,3 +39,44 @@ D:\SMapApp1\SMMVCApp2\obj\Debug\SMMVCApp2.dll
 D:\SMapApp1\SMMVCApp2\obj\Debug\SMMVCApp2.pdb
 D:\SMapApp1\SMMVCApp2\bin\LibraryForMVC.dll
 D:\SMapApp1\SMMVCApp2\bin\LibraryForMVC.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\obj\Debug\SMMVCApp2.csprojResolveAssemblyReference.cache
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\obj\Debug\SMMVCApp2.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\obj\Debug\SMMVCApp2.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\SMMVCApp2.dll.config
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\SMMVCApp2.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\SMMVCApp2.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\Newtonsoft.Json.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.Net4.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.Web.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Net.Http.Formatting.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Helpers.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Http.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Http.WebHost.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Mvc.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Razor.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.WebPages.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\WebActivatorEx.dll
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\LibraryForMVC.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.Net4.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.Web.pdb
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\StructureMap.Web.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\Newtonsoft.Json.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Net.Http.Formatting.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Helpers.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Http.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Http.WebHost.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Mvc.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.Razor.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.WebPages.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cttraining\Documents\Visual Studio 2015\Projects\smap\SMMVCApp2\bin\System.Web.WebPages.Razor.xml
